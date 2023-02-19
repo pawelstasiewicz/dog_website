@@ -1,0 +1,33 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background-color: #252525;
+}
+
+h1 {
+	color: aliceblue;
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+		'Lucida Sans', Arial, sans-serif;
+	text-align: center;
+	margin: 50px;
+}
+
+button {
+	display: block;
+	margin: 30px auto;
+	padding: 14.3px 30.7px;
+	border-radius: 10px;
+	border: none;
+	letter-spacing: 0.8px;
+	background-color: aliceblue;
+	color: #252525;
+}
+
+img {
+	display: block;
+	margin: 0 auto;
+}
